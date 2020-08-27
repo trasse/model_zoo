@@ -16,7 +16,7 @@ https://www.biorxiv.org/content/10.1101/2020.04.29.068023v1
 
 **based on:**
 
-We pre-trained a StarDist 3D model using the annotation of *Arabidopsis thaliana* lateral root nuclei dataset provided in (Wolny et al., 2020) and https://github.com/wolny/pytorch-3dunet.
+We pre-trained a StarDist 3D model using the annotation of a *Arabidopsis thaliana* lateral root nuclei dataset provided in (Wolny et al., 2020) and https://github.com/wolny/pytorch-3dunet.
 
 Wolny, A., Cerrone, L., Vijayan, A., Tofanelli, R., Barro, A.V., Louveaux, M., et al. (2020). Accurate and versatile 3D segmentation of plant tissues at cellular resolution. *eLife* 9**,** e57613. doi: 10.7554/eLife.57613.
 
