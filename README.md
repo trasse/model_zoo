@@ -36,6 +36,6 @@ Williams, E., Moore, J., Li, S.W., Rustici, G., Tarkowska, A., Chessel, A., et a
 
 
 
-![SD_3D_Iso_Basic_small](C:\Scripts\github\model_zoo\model_stardist\Figs\SD_3D_Iso_Basic_small.jpg)
+![SD_3D_Iso_Basic_small](.\model_stardist\Figs\SD_3D_Iso_Basic_small.jpg)
 
 Volume segmentation. In all images, segmented nuclei are assigned a unique random color.   Side-by-side comparison of segmented somatic nuclei of *Arabidopsis thaliana* flowers obtained with the 3D_Iso_Basic model that was trained on a similar dataset. The red box marks the area that is shown enlarged in the right panel. The green line indicates the location of the yz-plane shown in below.
